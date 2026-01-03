@@ -50,7 +50,8 @@ while True:
     else:
         print("Invalid input. Please enter a valid choice (1/2/3/4).")
 
-        ##upated Version release later
-        ##upadted 1
-        ##update 2
-        ##update 3
+# Member 1 added addition function
+# Member 2 added subtraction function
+# Member 3 added multiplication function
+# Member 4 added division function
+
